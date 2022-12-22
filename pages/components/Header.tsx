@@ -1,5 +1,5 @@
 import Image from "next/image";
-import redditLogo from "/Users/cbeyzaduzen/Desktop/Projeler/reddit-clone-app/assets/images/reddit-logo.png";
+import redditLogo from "../../assets/images/reddit-logo.png";
 import {
   ChevronDownIcon,
   HomeIcon,
